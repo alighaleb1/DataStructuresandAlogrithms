@@ -1,0 +1,8 @@
+HNL
+LAX
+SFO
+ORD
+DFW
+LGA
+PVD
+MIA
